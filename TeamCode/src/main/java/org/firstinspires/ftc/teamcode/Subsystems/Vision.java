@@ -82,7 +82,7 @@ public class Vision {
      */
     //TODO : Create VUFORIA_KEY for your team based on above instructions and update
     private static final String VUFORIA_KEY =
-            " -- YOUR NEW VUFORIA KEY GOES HERE  --- ";
+            "Afp4Mqf/////AAABmQtsetSXfErcsNrwPk0oOjyHkUa0Nrj858foGN4pWEOM/AEKHPyoVZAG4INGK/AmgfL2SoTAzeg7C5B/+voqU48tpFppAlrT2DBuJPTQoWdEo9xaNPHMNt9r6/AMZN8V4d9pkudc9A/5tvRbGwSFNRkpw1DmSUEj0fWoP7p80wxA8PoSsiyTrkOcw9IAqhWNM+5TfsE4+xWFeNvtEQhSehTqRlE+bXMfQvay+7OztAIakr0w8jOws2JMjkHdWQunsBVrWkKrzBSeAEsZ29NT3J4Nc2Z+lvpDm9SPnClM4/KWAWlNF2+97NDqmMGjBgxJXLr0iKDkmPYzzBKHW+dPWE5xrHhX12q2gTo70Ty4wYJG";
 
     /**
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
